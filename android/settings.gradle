@@ -1,0 +1,3 @@
+rootProject.name = 'ExceptionBridge'
+
+include ':app'
